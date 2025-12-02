@@ -1,0 +1,4 @@
+!#/bin/bash
+
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
